@@ -16,18 +16,25 @@ A empresa é uma organização projetizada, ou seja, os colaboradores fazem part
 
 Para favorecer as boas práticas de Gestão 3.0, o chefe do departamento delega a responsabilidade de liderar de cada projeto ao colaborador mais indicado.
 
-Cada colaborador tem um papel definido em um determinado projeto (desenvolvedor, engenheiro de infraestrutura, administrador de banco de dados, etc)e cada colaborador pode exercer papéis diferentes em cada projeto e o mesmo papel, desde que em projeto diferentes.
+Cada colaborador tem um papel definido em um determinado projeto (desenvolvedor, engenheiro de infraestrutura, administrador de banco de dados, etc) e cada colaborador pode exercer papéis diferentes em cada projeto e o mesmo papel, desde que em projeto diferentes.
 
 # Sobre o treinamento
 O projeto vem caminhando por etapas, desde a criação do modelo conceitual à criação do banco de dados.
 
-O primeiro passo para a criação do projeto foi criando o modelo conceitual. Posterirmente, foi criado o modelo relacional, já normalizado, ambos na plataforma BrModelo.
+O primeiro passo para a criação do projeto foi realizar o modelo conceitual. Posterirmente foi criado o modelo relacional, já normalizado, ambos na plataforma BrModelo.
 Realizado o modelo relacional com as entidades/tabelas  com todas as chaves primárias, campos e etc já estabelecidas, foi iniciado um teste de criação de schema na plataforma MySqlWorkbench.
 
 O SGBD disponibilizado pelo curso para dar andamento com o projeto, foi o oracle sql developer. Nele criamos o schema já ajustado e damos andamento nesse SGBD até então. 
 
 Para a criação do banco para a empresa Comex, foi necessário a criação do schema com as seguintes tabelas: brh.papel, brh.departamento, brh.endereco, brh.colaborador, brh.telefone_colaborador, brh.dependente, brh.projeto e brh.atribuicao
 
+
+Para a criar o mesmo schema rode o arquivo em algum sgbd:
+
+
+```
+schema.sql
+```
 
 # Autora
 
