@@ -6,7 +6,7 @@ Projeto em desenvolvimento para o treinamento Level Up Alura: BRH
 
 # Sobre o projeto
 O sistema BRH é um sistema de gestão de recursos humanos, seu objetivo é permitir a gestão dos colaboradores e departamentos da empresa.
-Para exemplificação do projeto, os conceitos de entidade, procedures e funções são inicialmente da empresa ficticia denominada Comex.
+
 
 A empresa é divida em departamentos, cada um chefiado por um colaborador. Os departamentos são identificados pela sigla que é atribuída em sua criação.
 
